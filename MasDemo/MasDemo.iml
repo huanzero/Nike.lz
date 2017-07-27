@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/webRoot/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/webRoot" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://E:/区县代码/中国移动集团政企云MAS平台短信SDK接口文档/中国移动集团政企云MAS平台SDK接口文档-V1.2.2-JAVA/SDK依赖包/activemq-all-5.9.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://E:/区县代码/中国移动集团政企云MAS平台短信SDK接口文档/中国移动集团政企云MAS平台SDK接口文档-V1.2.2-JAVA/SDK依赖包/activemq-all-5.9.1.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://E:/区县代码/中国移动集团政企云MAS平台短信SDK接口文档/中国移动集团政企云MAS平台SDK接口文档-V1.2.2-JAVA/SDK依赖包/commons-pool-1.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://E:/区县代码/中国移动集团政企云MAS平台短信SDK接口文档/中国移动集团政企云MAS平台SDK接口文档-V1.2.2-JAVA/SDK依赖包/commons-logging-1.1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://E:/区县代码/中国移动集团政企云MAS平台短信SDK接口文档/中国移动集团政企云MAS平台SDK接口文档-V1.2.2-JAVA/SDK依赖包/httpcore-4.3.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://E:/区县代码/中国移动集团政企云MAS平台短信SDK接口文档/中国移动集团政企云MAS平台SDK接口文档-V1.2.2-JAVA/SDK依赖包/fastjson-1.1.24.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://E:/区县代码/中国移动集团政企云MAS平台短信SDK接口文档/中国移动集团政企云MAS平台SDK接口文档-V1.2.2-JAVA/SDK依赖包/httpclient-4.3.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://E:/区县代码/中国移动集团政企云MAS平台短信SDK接口文档/中国移动集团政企云MAS平台SDK接口文档-V1.2.2-JAVA/SDK依赖包/sms.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="activemq-all-5.9.11" level="project" />
+    <orderEntry type="library" name="Maven: javax.servlet:servlet-api:2.5" level="project" />
+    <orderEntry type="library" name="Maven: javax.servlet.jsp:jsp-api:2.1" level="project" />
+    <orderEntry type="library" name="activemq-all-5.9.1" level="project" />
+    <orderEntry type="library" name="dac0fe1d-91b2-3bbf-a6a1-2ffe059d461d" level="project" />
+    <orderEntry type="library" name="fastjson-1.1.37" level="project" />
+  </component>
+</module>
